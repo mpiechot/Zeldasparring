@@ -1,3 +1,4 @@
+using Photon.Pun;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,7 +14,10 @@ namespace ZeldaSparring
 
         private void LoadPlayer()
         {
-            Instantiate(playerPrefab);
+            if (playerPrefab)
+            {
+                PhotonNetwork.Instantiate(playerPrefab.name, Vector2.zero, Quaternion.identity, 0);
+            }
         }
 
     }

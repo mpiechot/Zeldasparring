@@ -1,3 +1,4 @@
+using Photon.Pun;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,8 +9,14 @@ namespace ZeldaSparring
 
     public class ConnectionSetup : MonoBehaviour
     {
+        [SerializeField] private TMPro.TMP_InputField nickNameTextField;
 
         private string nickName;
+
+        private void Awake()
+        {
+            PhotonNetwork.AutomaticallySyncScene = true;
+        }
 
         private void Start()
         {
@@ -19,6 +26,7 @@ namespace ZeldaSparring
         private void LoadValues()
         {
             nickName = PlayerPrefs.GetString(ConnectionConstants.NickNamePrefKey);
+            nickNameTextField.text = nickName;
         }
 
         public void SetNickName(string name)
