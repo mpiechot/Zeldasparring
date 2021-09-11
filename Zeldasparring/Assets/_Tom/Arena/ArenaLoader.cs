@@ -12,6 +12,11 @@ namespace ZeldaSparring
 
         [SerializeField] private GameObject playerPrefab;
 
+        private void Start()
+        {
+            LoadPlayer();
+        }
+
         private void LoadPlayer()
         {
             if (playerPrefab)
