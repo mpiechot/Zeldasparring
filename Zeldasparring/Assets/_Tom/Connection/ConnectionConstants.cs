@@ -11,6 +11,8 @@ namespace ZeldaSparring
         public const int MaxPlayersPerRoom = 20;
         public const string NickNamePrefKey = "CNickName";
         public const string GameVersion = "1";
+
+        public const string SelectedFaceKey = "CSelectedFace";
     }
 
 }
