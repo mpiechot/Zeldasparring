@@ -13,6 +13,7 @@ namespace ZeldaSparring
         public const string GameVersion = "1";
 
         public const string SelectedFaceKey = "CSelectedFace";
+        public const string SelectedBodyKey = "CSelectedBody";
     }
 
 }

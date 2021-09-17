@@ -1,7 +1,247 @@
 fileFormatVersion: 2
 guid: fcb39073ae50caa429ac949fc0e6748b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8087025888876899011
+    second: body_nitron1_0
+  - first:
+      213: -45705755844987773
+    second: body_nitron1_1
+  - first:
+      213: -6059879596672132363
+    second: body_nitron1_2
+  - first:
+      213: -5296335655763135014
+    second: body_nitron1_3
+  - first:
+      213: -5611918591163345361
+    second: body_nitron1_4
+  - first:
+      213: 6320227115882799764
+    second: body_nitron1_5
+  - first:
+      213: 807716225780697033
+    second: body_nitron1_6
+  - first:
+      213: 283874109861643020
+    second: body_nitron1_7
+  - first:
+      213: 7411036826139329954
+    second: body_nitron1_8
+  - first:
+      213: 3813760999045161717
+    second: body_nitron1_9
+  - first:
+      213: -8781205597802507240
+    second: body_nitron1_10
+  - first:
+      213: 8701300065929621284
+    second: body_nitron1_11
+  - first:
+      213: 6000911254013509375
+    second: body_nitron1_12
+  - first:
+      213: -7731831348801132069
+    second: body_nitron1_13
+  - first:
+      213: 2635414487290103663
+    second: body_nitron1_14
+  - first:
+      213: 1877666048642284465
+    second: body_nitron1_15
+  - first:
+      213: -2780214884486833024
+    second: body_nitron1_16
+  - first:
+      213: 5259107929150230400
+    second: body_nitron1_17
+  - first:
+      213: 5555179850393686865
+    second: body_nitron1_18
+  - first:
+      213: 6933968544279010801
+    second: body_nitron1_19
+  - first:
+      213: 9205308895739517359
+    second: body_nitron1_20
+  - first:
+      213: -4891538561683321776
+    second: body_nitron1_21
+  - first:
+      213: 7934424062754221521
+    second: body_nitron1_22
+  - first:
+      213: -7813401058926771931
+    second: body_nitron1_23
+  - first:
+      213: 5182843874722643326
+    second: body_nitron1_24
+  - first:
+      213: 7998470023496612510
+    second: body_nitron1_25
+  - first:
+      213: -2372646053299149260
+    second: body_nitron1_26
+  - first:
+      213: 7948588710772080114
+    second: body_nitron1_27
+  - first:
+      213: 8600562025466347579
+    second: body_nitron1_28
+  - first:
+      213: -5052034157972787662
+    second: body_nitron1_29
+  - first:
+      213: -9215690934055056774
+    second: body_nitron1_30
+  - first:
+      213: -4440628937115248949
+    second: body_nitron1_31
+  - first:
+      213: 4271950013182214746
+    second: body_nitron1_32
+  - first:
+      213: 5667631406684370541
+    second: body_nitron1_33
+  - first:
+      213: -3484679917451764640
+    second: body_nitron1_34
+  - first:
+      213: 6465621856642565870
+    second: body_nitron1_35
+  - first:
+      213: -1583639195580777882
+    second: body_nitron1_36
+  - first:
+      213: -7628146893703735571
+    second: body_nitron1_37
+  - first:
+      213: -98990187680081546
+    second: body_nitron1_38
+  - first:
+      213: -7341838660027186250
+    second: body_nitron1_39
+  - first:
+      213: -1826546119000641194
+    second: body_nitron1_40
+  - first:
+      213: -2312551190127516156
+    second: body_nitron1_41
+  - first:
+      213: 8780967875079453422
+    second: body_nitron1_42
+  - first:
+      213: -704364658844447793
+    second: body_nitron1_43
+  - first:
+      213: 6083874818627199543
+    second: body_nitron1_44
+  - first:
+      213: 6632918370515684012
+    second: body_nitron1_45
+  - first:
+      213: -6755273528639216226
+    second: body_nitron1_46
+  - first:
+      213: -2743647631210700373
+    second: body_nitron1_47
+  - first:
+      213: 8634312637229432632
+    second: body_nitron1_48
+  - first:
+      213: -1497429586152253729
+    second: body_nitron1_49
+  - first:
+      213: 7383491149797065564
+    second: body_nitron1_50
+  - first:
+      213: -4348136817214983082
+    second: body_nitron1_51
+  - first:
+      213: 1924958539789517328
+    second: body_nitron1_52
+  - first:
+      213: 568685236146955108
+    second: body_nitron1_53
+  - first:
+      213: -6845413085243422514
+    second: body_nitron1_54
+  - first:
+      213: 5615768950626488374
+    second: body_nitron1_55
+  - first:
+      213: 3473119719787740203
+    second: body_nitron1_56
+  - first:
+      213: -2975780804175115313
+    second: body_nitron1_57
+  - first:
+      213: 3593001912388258214
+    second: body_nitron1_58
+  - first:
+      213: -4516247141047839653
+    second: body_nitron1_59
+  - first:
+      213: 1925637268086776920
+    second: body_nitron1_60
+  - first:
+      213: -5838690367599291811
+    second: body_nitron1_61
+  - first:
+      213: 5604739788961289010
+    second: body_nitron1_62
+  - first:
+      213: 8382120219539577958
+    second: body_nitron1_63
+  - first:
+      213: -3100061604300305493
+    second: body_nitron1_64
+  - first:
+      213: 4993240437907117471
+    second: body_nitron1_65
+  - first:
+      213: 533093281780365357
+    second: body_nitron1_66
+  - first:
+      213: 6011969574297978033
+    second: body_nitron1_67
+  - first:
+      213: -6372532912080116943
+    second: body_nitron1_68
+  - first:
+      213: -1502388452044346669
+    second: body_nitron1_69
+  - first:
+      213: 467630401677361934
+    second: body_nitron1_70
+  - first:
+      213: 2737246449528383741
+    second: body_nitron1_71
+  - first:
+      213: -8025028275292575756
+    second: body_nitron1_72
+  - first:
+      213: -5582245318755068046
+    second: body_nitron1_73
+  - first:
+      213: -8181686383272695181
+    second: body_nitron1_74
+  - first:
+      213: -5226094922994248562
+    second: body_nitron1_75
+  - first:
+      213: 7435549830188025415
+    second: body_nitron1_76
+  - first:
+      213: -8340078765102041351
+    second: body_nitron1_77
+  - first:
+      213: 6927900018342188785
+    second: body_nitron1_78
+  - first:
+      213: 5390785384229175630
+    second: body_nitron1_79
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +272,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,7 +281,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,7 +307,31 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -77,7 +341,1687 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: body_nitron1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35da1c0dcc15cf80800000000000000
+      internalID: -8087025888876899011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 692
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843ba27bde9d5ff0800000000000000
+      internalID: -45705755844987773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 690
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa58ba0d9bf6eba0800000000000000
+      internalID: -6059879596672132363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5b00348c2af76b0800000000000000
+      internalID: -5296335655763135014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 664
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265c4946c57e12b0800000000000000
+      internalID: -5611918591163345361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 659
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926cfd6315f5b750800000000000000
+      internalID: 6320227115882799764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 664
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74afcb0a5953b00800000000000000
+      internalID: 807716225780697033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03cb37bff580f300800000000000000
+      internalID: 283874109861643020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 628
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a58f5f5aba49d660800000000000000
+      internalID: 7411036826139329954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 628
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f263562c633de430800000000000000
+      internalID: 3813760999045161717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145f4b9804e22680800000000000000
+      internalID: -8781205597802507240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 594
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f61d9fe4a31c870800000000000000
+      internalID: 8701300065929621284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 596
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7e18cdf4874350800000000000000
+      internalID: 6000911254013509375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9aa7f6a5403b490800000000000000
+      internalID: -7731831348801132069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 564
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6748de538fd29420800000000000000
+      internalID: 2635414487290103663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 562
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb722ca25fce0a10800000000000000
+      internalID: 1877666048642284465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c98e2fa41ba69d0800000000000000
+      internalID: -2780214884486833024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 534
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f80703cca1cf840800000000000000
+      internalID: 5259107929150230400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 538
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539f1e24a6f71d40800000000000000
+      internalID: 5555179850393686865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 534
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9b7d37a76a3060800000000000000
+      internalID: 6933968544279010801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 498
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa91c4a3ba3dfbf70800000000000000
+      internalID: 9205308895739517359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 496
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c8db93893cd1cb0800000000000000
+      internalID: -4891538561683321776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde6cd85acbc1e60800000000000000
+      internalID: 7934424062754221521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 496
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52142035229319390800000000000000
+      internalID: -7813401058926771931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df62f4b092de740800000000000000
+      internalID: 5182843874722643326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3021db16400f60800000000000000
+      internalID: 7998470023496612510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 464
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4362f5f3cfaa21fd0800000000000000
+      internalID: -2372646053299149260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdff3ba15f0f4e60800000000000000
+      internalID: 7948588710772080114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 432
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c2ac28955b5770800000000000000
+      internalID: 8600562025466347579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e64ec33b193e9b0800000000000000
+      internalID: -5052034157972787662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 432
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a4cdb1ce94b1080800000000000000
+      internalID: -9215690934055056774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6dce75287bf52c0800000000000000
+      internalID: -4440628937115248949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5283f937e3094b30800000000000000
+      internalID: 4271950013182214746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 368
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66f4496cb877ae40800000000000000
+      internalID: 5667631406684370541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 370
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9954e31ee3afc0800000000000000
+      internalID: -3484679917451764640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68e2182d08ab950800000000000000
+      internalID: 6465621856642565870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 336
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab507ca88c50ae0800000000000000
+      internalID: -1583639195580777882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 336
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de61a4ad0d0632690800000000000000
+      internalID: -7628146893703735571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795413e2f050aef0800000000000000
+      internalID: -98990187680081546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b389de23ac8c1a90800000000000000
+      internalID: -7341838660027186250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 304
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65139137bfdc6a6e0800000000000000
+      internalID: -1826546119000641194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406ea8be1fa28efd0800000000000000
+      internalID: -2312551190127516156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 274
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3a3242c34cd970800000000000000
+      internalID: 8780967875079453422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbcc3d13189936f0800000000000000
+      internalID: -704364658844447793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e73ee9e34e6450800000000000000
+      internalID: 6083874818627199543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa00c28d1cdc0c50800000000000000
+      internalID: 6632918370515684012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e952cd444827042a0800000000000000
+      internalID: -6755273528639216226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 242
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba128d0140b9ce9d0800000000000000
+      internalID: -2743647631210700373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 242
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff9b5d89d33d770800000000000000
+      internalID: 8634312637229432632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd61c31a9bf083be0800000000000000
+      internalID: -1497429586152253729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 210
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305e1d41e677660800000000000000
+      internalID: 7383491149797065564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 208
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6547a172a9058a3c0800000000000000
+      internalID: -4348136817214983082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124283d793d6ba10800000000000000
+      internalID: 1924958539789517328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 210
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636c81953064e700800000000000000
+      internalID: 568685236146955108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8414941153001a0800000000000000
+      internalID: -6845413085243422514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63092c26b183fed40800000000000000
+      internalID: 5615768950626488374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 178
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c3a58dbfff23030800000000000000
+      internalID: 3473119719787740203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 180
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb47bdff17e3b6d0800000000000000
+      internalID: -2975780804175115313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 178
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a98339e338ecd130800000000000000
+      internalID: 3593001912388258214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 146
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5458ff37211351c0800000000000000
+      internalID: -4516247141047839653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854e09294ec39ba10800000000000000
+      internalID: 1925637268086776920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52dfbd9b0ec8fea0800000000000000
+      internalID: -5838690367599291811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 144
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331983942908cd40800000000000000
+      internalID: 5604739788961289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c9646ede5435470800000000000000
+      internalID: 8382120219539577958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab4add456e5af4d0800000000000000
+      internalID: -3100061604300305493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d19319bd8b4540800000000000000
+      internalID: 4993240437907117471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287aace38de56700800000000000000
+      internalID: 533093281780365357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4cc7c997ece6350800000000000000
+      internalID: 6011969574297978033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133aaff54173097a0800000000000000
+      internalID: -6372532912080116943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 82
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6f31b9a1762be0800000000000000
+      internalID: -1502388452044346669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 86
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03072a6f5b5d7600800000000000000
+      internalID: 467630401677361934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a6dea427acf520800000000000000
+      internalID: 2737246449528383741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 52
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f768b25d4f51a090800000000000000
+      internalID: -8025028275292575756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27754866571e782b0800000000000000
+      internalID: -5582245318755068046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 52
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6165359fc47e80800000000000000
+      internalID: -8181686383272695181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8494784b5e2977b0800000000000000
+      internalID: -5226094922994248562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c212ec21603760800000000000000
+      internalID: 7435549830188025415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6705ffc86124c80800000000000000
+      internalID: -8340078765102041351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 24
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f655b07c58d42060800000000000000
+      internalID: 6927900018342188785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: body_nitron1_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 690
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41095fcebaefca40800000000000000
+      internalID: 5390785384229175630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
